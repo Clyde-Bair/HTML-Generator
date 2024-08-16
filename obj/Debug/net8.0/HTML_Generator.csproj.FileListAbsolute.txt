@@ -1,0 +1,14 @@
+C:\Users\MCA-20\source\repos\HTML_Generator\bin\Debug\net8.0\HTML_Generator.exe
+C:\Users\MCA-20\source\repos\HTML_Generator\bin\Debug\net8.0\HTML_Generator.deps.json
+C:\Users\MCA-20\source\repos\HTML_Generator\bin\Debug\net8.0\HTML_Generator.runtimeconfig.json
+C:\Users\MCA-20\source\repos\HTML_Generator\bin\Debug\net8.0\HTML_Generator.dll
+C:\Users\MCA-20\source\repos\HTML_Generator\bin\Debug\net8.0\HTML_Generator.pdb
+C:\Users\MCA-20\source\repos\HTML_Generator\obj\Debug\net8.0\HTML_Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCA-20\source\repos\HTML_Generator\obj\Debug\net8.0\HTML_Generator.AssemblyInfoInputs.cache
+C:\Users\MCA-20\source\repos\HTML_Generator\obj\Debug\net8.0\HTML_Generator.AssemblyInfo.cs
+C:\Users\MCA-20\source\repos\HTML_Generator\obj\Debug\net8.0\HTML_Generator.csproj.CoreCompileInputs.cache
+C:\Users\MCA-20\source\repos\HTML_Generator\obj\Debug\net8.0\HTML_Generator.dll
+C:\Users\MCA-20\source\repos\HTML_Generator\obj\Debug\net8.0\refint\HTML_Generator.dll
+C:\Users\MCA-20\source\repos\HTML_Generator\obj\Debug\net8.0\HTML_Generator.pdb
+C:\Users\MCA-20\source\repos\HTML_Generator\obj\Debug\net8.0\HTML_Generator.genruntimeconfig.cache
+C:\Users\MCA-20\source\repos\HTML_Generator\obj\Debug\net8.0\ref\HTML_Generator.dll
